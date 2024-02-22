@@ -6,20 +6,20 @@ I'm fascinated by how AI and machine learning can transform industries and socie
 
 ## Education 📚
 
-- **MSc in Machine Learning**, KTH Royal Institute of Technology, Stockholm, Sweden (09/2023 – ongoing)
-- **BSc in Data Science and Artificial Intelligence**, Maastricht University, Maastricht, Netherlands (09/2020 – 07/2023)
+- **MSc in Machine Learning** - KTH Royal Institute of Technology - Stockholm, Sweden (09/2023 – ongoing)
+- **BSc in Data Science and Artificial Intelligence** - Maastricht University - Maastricht, Netherlands (09/2020 – 07/2023)
 
 ## Projects Highlight 🚀
 
-- **Gunshot Detection in Acoustic Recordings Using CNNs**: Collaborated with the Elephant Listening Project to enhance their gunshot detection system.
-- **Emotion-Driven Music Recommender System**: Developed a system that curates songs based on the user’s emotions and musical preferences.
+- **[Gunshot Detection in Acoustic Recordings Using CNNs](https://github.com/RosameliaCarioni/bachelor_thesis_gunshot_detection)**: Collaborated with the Elephant Listening Project to enhance their gunshot detection system.
+- **[Emotion-Driven Music Recommender System](https://github.com/RosameliaCarioni/emotion_song_recommender)**: Developed a system that curates songs based on the user’s emotions and musical preferences.
 
 ## Skills & Interests ✨
 
 - **Programming**: Python, Java, SQL, ML libraries such as PyTorch/TensorFlow
 - **Interests**: Hiking, camping, pottery making, scuba diving
 
-## You can find me here 🌐
+## Let's connect 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/rosamelia-carioni/)
 
