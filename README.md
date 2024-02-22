@@ -30,7 +30,4 @@ I'm fascinated by how AI and machine learning can transform industries and socie
 - Hiking, camping, pottery making, scuba diving, sustainability 
 
 ## Let's connect 🌐
-
-- [LinkedIn](https://www.linkedin.com/in/rosamelia-carioni/)
-
-I'm always looking for new challenges and opportunities to apply my data science and AI skills towards meaningful projects. Feel free to reach out if you're interested in collaborating!
+I'm always looking for new challenges and opportunities to apply my data science and AI skills towards meaningful projects. Feel free to [reach out](https://www.linkedin.com/in/rosamelia-carioni/) if you're interested in collaborating!
