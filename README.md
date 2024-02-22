@@ -15,7 +15,7 @@ I'm fascinated by how AI and machine learning can transform industries and socie
 - **[Emotion-Driven Music Recommender System](https://github.com/RosameliaCarioni/emotion_song_recommender)**: Developed a system that curates songs based on the user’s emotions and musical preferences.
 
 ## Skills 🌪️
-![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logo)
 ![](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch&logoColor=white)
