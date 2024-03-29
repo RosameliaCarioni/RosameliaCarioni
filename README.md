@@ -11,7 +11,7 @@ I'm fascinated by how AI and machine learning can transform industries and socie
 
 ## Projects Highlight 🚀
 
-- **[Gunshot Detection in Acoustic Recordings Using CNNs](https://github.com/RosameliaCarioni/bachelor_thesis_gunshot_detection)**: Collaborated with the [Elephant Listening Project](https://www.elephantlisteningproject.org/) to enhance their gunshot detection system.
+- **[Gunshot Detection in Acoustic Recordings Using CNNs](https://github.com/RosameliaCarioni/bachelor_thesis_gunshot_detection)**: Collaborated with the [Elephant Listening Project](https://www.elephantlisteningproject.org/) to build a gunshot detection system.
 - **[Weather and Energy Production Visualization Map](https://github.com/RosameliaCarioni/energyProductionAndWeatherVisualization)**: Collaborated with [Rebase Energy](https://www.rebase.energy/) building a visualization tool to provide context to power traders about weather systems and risks to their operations. 
 -  **[Emotion-Driven Music Recommender System](https://github.com/RosameliaCarioni/emotion_song_recommender)**: Developed a system that curates songs based on the user’s emotions and musical preferences.
 
