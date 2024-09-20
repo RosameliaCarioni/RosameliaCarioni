@@ -16,7 +16,6 @@ I'm passionate about how AI and machine learning can transform industries and so
 ![](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Keras-grey?style=for-the-badge&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📬 Let's connect
