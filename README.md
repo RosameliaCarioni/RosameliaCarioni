@@ -19,10 +19,5 @@ I'm passionate about how AI and machine learning can transform industries and so
 ![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📬 Let's connect
-<div style="background-color: rgba(50, 50, 70, 1); padding: 5px; padding-top: 10px; border-radius: 15px; margin: 5px; text-align: center;">
-    <div>
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosamelia-carioni/" style="margin: 3px;" />
-      <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)(mailto:rdccp@kth.se)" style="margin: 3px;" />
-    </div>
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosamelia-carioni/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rdccp@kth.se)
