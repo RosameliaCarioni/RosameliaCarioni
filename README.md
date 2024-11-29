@@ -2,11 +2,11 @@
 
 ## 🌟 About Me
 
-I'm passionate about how AI and machine learning can transform industries and society positively. I am eager to contribute to projects that aim for a positive societal impact.
+I'm passionate about how AI and machine learning can transform industries and society positively. I am eager to contribute to projects that aim for a positive societal impact. I am currently learning about energy markets and enabling a sustainable grid. 
 
 ## 🎓 Education
 
-- **MSc in Machine Learning** - KTH Royal Institute of Technology - Stockholm, Sweden (09/2023 – ongoing)
+- **MSc in Machine Learning** - KTH Royal Institute of Technology - Stockholm, Sweden (09/2023 – 06/2025)
 - **BSc in Data Science and Artificial Intelligence** - Maastricht University - Maastricht, Netherlands (09/2020 – 07/2023)
 
 ## 🛠️ Skills
@@ -19,4 +19,10 @@ I'm passionate about how AI and machine learning can transform industries and so
 ![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📬 Let's connect
-I'm always looking for new challenges and opportunities to apply my skills towards meaningful projects. Feel free to [reach out](https://www.linkedin.com/in/rosamelia-carioni/) if you want to collaborate!
+<div style="background-color: rgba(50, 50, 70, 1); padding: 5px; padding-top: 10px; border-radius: 15px; margin: 5px; text-align: center;">
+    <div>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosamelia-carioni/" style="margin: 3px;" />
+      <img src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)(mailto:rdccp@kth.se)" style="margin: 3px;" />
+    </div>
+</div>
+
